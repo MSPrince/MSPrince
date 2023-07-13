@@ -10,7 +10,7 @@
 
 - All Of my projects are avilable at [https://app.netlify.com/teams/msprince/overview](https://app.netlify.com/teams/msprince/overview)
 
-- 📫 How to reach me **manseeprince@gmail.com**
+- 📫 How to reach me  <a href="mailto:manseeprince@gmail.com">manseeprince@gmail.com</a>
 
 - Fun Fact **"I think I am Funny"**
 
