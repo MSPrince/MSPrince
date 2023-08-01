@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on <h4>A Doctor's Diary </h4>Project
 
-- All Of my projects are avilable at [[https://app.netlify.com/teams/msprince/overview](https://app.netlify.com/teams/msprince/overview](https://docs.google.com/document/d/1_NnJcaBFNpzJZVdTRjoaObt89wErcmPQKhVivwU-lqA/edit?usp=sharing))
+- All Of my projects are avilable at <a href="https://docs.google.com/document/d/1_NnJcaBFNpzJZVdTRjoaObt89wErcmPQKhVivwU-lqA/edit?usp=sharing">https://docs.google.com/document/d/1_NnJcaBFNpzJZVdTRjoaObt89wErcmPQKhVivwU-lqA/edit?usp=sharing</a>
 
 - 📫 How to reach me  <a href="mailto:manseeprince@gmail.com">manseeprince@gmail.com</a>
 
