@@ -6,9 +6,7 @@
 <img align="right" alt="coding" width="400"
         src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on <h4>A Doctor's Diary </h4>Project
-
-- All Of my projects are avilable at <a href="https://docs.google.com/document/d/1_NnJcaBFNpzJZVdTRjoaObt89wErcmPQKhVivwU-lqA/edit?usp=sharing">https://docs.google.com/document/d/1_NnJcaBFNpzJZVdTRjoaObt89wErcmPQKhVivwU-lqA/edit?usp=sharing</a>
+- 🔭 I’m currently working on <h4> Online Health Consulting A Doctor's Diary </h4>Project
 
 - 📫 How to reach me  <a href="mailto:manseeprince@gmail.com">manseeprince@gmail.com</a>
 
