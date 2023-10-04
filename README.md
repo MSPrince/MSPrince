@@ -10,7 +10,7 @@
 
 - 📫 How to reach me  <a href="mailto:manseeprince@gmail.com">manseeprince@gmail.com</a>
 
-- Fun Fact **"I think I am Funny"**
+- Fun Fact **"I think I am Serious"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
