@@ -1,5 +1,10 @@
  ![logo](https://github.com/MSPrince/MSPrince/blob/main/485-ai.png)
-https://github.com/MSPrince/MSPrince/assets/135182786/e4b20734-c673-43bc-891b-d0a6db149405
+
+
+https://github.com/MSPrince/MSPrince/assets/135182786/e82b70c0-191f-48fa-8b30-11bb19780069
+
+
+
 <h1 align="center">Hi 👋, I'm M S Prince</h1>
 <h3 align="center">A Passionate Frontend developer From India</h3>
 
