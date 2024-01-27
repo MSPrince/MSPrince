@@ -17,7 +17,7 @@ https://github.com/MSPrince/MSPrince/assets/135182786/e82b70c0-191f-48fa-8b30-11
 
 - 🔭 I’m currently working on <h4> Online Health Consulting A Doctor's Diary </h4>Project
 
-- 📫 How to reach me  <a href="mailto:manseeprince@gmail.com">manseeprince@gmail.com</a>
+- 📫 How to reach me  <a href="mailto:maurya.prince06@gmail.com">maurya.prince06@gmail.com@gmail.com</a>
 
 - Fun Fact **"I think I am Serious"**
 
