@@ -4,44 +4,27 @@
 https://github.com/MSPrince/MSPrince/assets/135182786/e82b70c0-191f-48fa-8b30-11bb19780069
 
 
-
-<h1 align="center">Hi 👋, I'm M S Prince</h1>
-<h3 align="center">A Passionate Frontend developer From India</h3>
-
-<img align="right" alt="coding" width="400"
-        src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# 💫 About Me:
+🔭 I’m currently working on: A Doctor's Diary – a medical and health website dedicated to providing valuable health information and services.<br><br>🤝 I’m looking to collaborate on: Medical projects that involve frontend development, creating user-friendly interfaces, and building health-tech solutions. I'm particularly interested in projects that aim to improve patient experiences and streamline online medical consultations.<br><br>🆘 I’m looking for help with: Optimizing backend development for seamless data handling, integrating APIs for medical services, and improving the scalability of health-related platforms.<br><br>🌱 I’m currently learning: Advanced React patterns, Next.js for server-side rendering, and exploring the use of GraphQL for efficient data fetching in complex projects.<br><br>💬 Ask me about: JavaScript, React, creating responsive web designs, and building intuitive UI/UX experiences for health-related applications.<br><br>😄 Fun fact: I can spend hours refining tiny UI details to make a user’s experience just a little bit better, and I love the challenge of turning complex problems into simple, elegant solutions!
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M S Prince) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.s.prins) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M S Prince) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MSPrince&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MSPrince&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSPrince&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MSPrince&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on <h4> Online Health Consulting A Doctor's Diary </h4>Project
+---
+[![](https://visitcount.itsvg.in/api?id=MSPrince&icon=9&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me  <a href="mailto:maurya.prince06@gmail.com">maurya.prince06@gmail</a>
-
-- Fun Fact **"I think I am Serious"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/m.s.prins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.s.prins" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/@manseeprince"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@manseeprince" /></a><a href="https://ko-fi.com/@mansee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@mansee" /></a></p><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msprince&label=Profile%20views&color=0e75b6&style=flat" alt="msprince" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msprince" alt="msprince" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msprince&show_icons=true&locale=en&layout=compact" alt="msprince" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msprince&show_icons=true&locale=en" alt="msprince" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msprince&" alt="msprince" /></p>
